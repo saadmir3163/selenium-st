@@ -1,1 +1,2 @@
 Refactored test case structure for better modularity.
+Improved login test case stability with wait conditions.
