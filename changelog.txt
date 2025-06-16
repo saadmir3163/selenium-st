@@ -4,3 +4,4 @@ Added browser setup logging for debug purposes.
 Added browser setup logging for debug purposes.
 Added browser setup logging for debug purposes.
 Added browser setup logging for debug purposes.
+Improved README with local environment setup steps.
