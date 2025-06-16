@@ -3,14 +3,14 @@ const fs = require('fs');
 const path = require('path');
 
 // YOUR GitHub info
-const authorName = "Faizan Ahmed Khan";
-const authorEmail = "35536499+Faizanahmedkhan@users.noreply.github.com";
+const authorName = "Saad Mir";
+const authorEmail = "60347194+saadmir3163@users.noreply.github.com";
 
 // Input
-const startDateStr = "2018-01-01";
-const endDateStr = "2024-12-31";
+const startDateStr = "2020-01-01";
+const endDateStr = "2025-3-19";
 const maxCommitsPerDay = 4;
-const skipChance = 0.25; // 25% chance to skip a day entirely
+const skipChance = 0.25;
 
 // Setup
 const startDate = new Date(startDateStr);
